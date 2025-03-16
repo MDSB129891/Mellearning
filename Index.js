@@ -1,1 +1,1 @@
-console.log('Rey es Puto')
+console.log('Rey es muy Puto')
